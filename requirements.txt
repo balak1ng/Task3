@@ -1,0 +1,5 @@
+1) Pip
+2) Numpy
+3) Pandas
+4) Sklearn
+5) matplotlib
